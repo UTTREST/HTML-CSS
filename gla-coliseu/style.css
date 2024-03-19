@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#lista{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 5px;
+}
+
+#strong {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
